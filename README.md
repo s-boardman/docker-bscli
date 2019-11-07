@@ -1,4 +1,4 @@
-![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/sboardman/bscli/latest)
+[![](https://images.microbadger.com/badges/image/sboardman/bscli.svg)](https://microbadger.com/images/sboardman/bscli "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/sboardman/bscli.svg)](https://microbadger.com/images/sboardman/bscli "Get your own version badge on microbadger.com")
 
 # README
 
